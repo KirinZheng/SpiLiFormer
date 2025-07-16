@@ -1,10 +1,10 @@
 <div align="center" style="font-family: charter;">
 <h1>SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition</h1>
 <a href="https://arxiv.org/pdf/2503.15986" target="_blank">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SPEC-red?logo=arxiv" height="20" />
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SpiLiFormer-red?logo=arxiv" height="20" />
 </a>
 <a href="https://openreview.net/attachment?id=M4DTKg3PNr&name=supplementary_material" target="_blank">
-    <img alt="Supplementary" src="https://img.shields.io/badge/📑_Supplementary-SPEC-ffc107?color=FFCF50&logoColor=white" height="20" />
+    <img alt="Supplementary" src="https://img.shields.io/badge/📑_Supplementary-SpiLiFormer-ffc107?color=FFCF50&logoColor=white" height="20" />
 </a>
 
 <div>
