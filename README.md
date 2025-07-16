@@ -35,7 +35,7 @@ Inspired by the lateral inhibition mechanism in the human visual system—which 
 
 - FB-LiDiff Attention (Feedback-pathway Lateral Differential Inhibition): Inspired by long-range cortical inhibition, this module incorporates feedback to refine attention allocation in deeper network stages.
 
-![My Image](assets\SpiLiFormer.png)
+![My Image](assets/SpiLiFormer.png)
 
 ## TODO
 - [ ] Release the checkpoint of our models
