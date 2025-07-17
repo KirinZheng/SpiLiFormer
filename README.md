@@ -24,7 +24,7 @@
 </div>
 
 ## News
-* `Jun. 28, 2025` Our work has been accepted by [ICCV 2025](https://iccv.thecvf.com/) 🎉.
+* `Jun. 26, 2025` Our work has been accepted by [ICCV 2025](https://iccv.thecvf.com/) 🎉.
 
 ## Overview
 SpiLiFormer (Spiking Transformer with Lateral Inhibition) is a novel brain-inspired spiking transformer architecture designed to enhance the performance and robustness of spiking neural networks (SNNs). 
@@ -38,7 +38,7 @@ Inspired by the lateral inhibition mechanism in the human visual system—which 
 ![My Image](assets/SpiLiFormer.png)
 
 ## TODO
-- [ ] Release the checkpoint of our models
+- [ ] Release the checkpoints of our models
 - [ ] Release the code of our work
 
 ## Citation
